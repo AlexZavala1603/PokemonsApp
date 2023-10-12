@@ -8,6 +8,7 @@ import androidx.lifecycle.Lifecycle
 import androidx.lifecycle.lifecycleScope
 import androidx.lifecycle.repeatOnLifecycle
 import androidx.recyclerview.widget.RecyclerView
+import com.example.pokemonsapp.R
 import com.example.pokemonsapp.databinding.ActivityMainBinding
 import com.example.pokemonsapp.ui.main.MainViewModel.UiModel
 import com.example.pokemonsapp.ui.pokemonDetailed.PokemonDetailedActivity
@@ -29,6 +30,7 @@ class MainActivity : AppCompatActivity() {
 
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
+        setTheme(R.style.Theme_PokemonsApp)
         binding = ActivityMainBinding.inflate(layoutInflater)
         setContentView(binding.root)
         init()

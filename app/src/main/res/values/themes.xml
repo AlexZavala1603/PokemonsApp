@@ -6,4 +6,9 @@
     </style>
 
     <style name="Theme.PokemonsApp" parent="Base.Theme.PokemonsApp" />
+
+    <style name="SplashScreen" parent="Theme.PokemonsApp">
+        <item name="android:windowBackground">@drawable/splash_screen</item>
+    </style>
+
 </resources>
