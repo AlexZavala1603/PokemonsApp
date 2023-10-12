@@ -5,6 +5,7 @@ PokemonsApp es una aplicación Android diseñada para ayudarte a explorar y obte
 # Capturas de Pantalla
 
 ![PokeApp 1](https://github.com/AlexZavala1603/PokemonsApp/assets/85930734/c173fcbd-3b1f-4cef-ac0c-14c35e2b2fad)
+![PokeApp 1 5](https://github.com/AlexZavala1603/PokemonsApp/assets/85930734/f8d47a54-8be3-4c5c-ba60-2195188132e6)
 ![PokeApp 2](https://github.com/AlexZavala1603/PokemonsApp/assets/85930734/94b13836-2aa9-4139-8729-5600c9438555)
 
 # Instalación
