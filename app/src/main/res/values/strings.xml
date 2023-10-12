@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">PokemonsApp</string>
+
+    <string name="bad_request">Solicitud incorrecta</string>
+    <string name="network_error">Error de red. Verifique su conexión.</string>
+    <string name="empty_response">No hay más información por el momento.</string>
+    <string name="unknow_error">Por favor intente más tarde.</string>
+
+</resources>
